@@ -11,7 +11,7 @@ import org.testng.annotations.*;
 
 import static io.restassured.RestAssured.*;
 
-public class Main {
+public class MainTest {
     String token = "AgAAAAA3WaDzAADLW2nqnQYz30mdr3d6KpXyhfU";
     String fileName = "test.txt";
     String folderName = "test_folder";
