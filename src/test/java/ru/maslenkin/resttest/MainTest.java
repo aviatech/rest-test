@@ -8,7 +8,6 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 import org.testng.annotations.*;
-
 import static io.restassured.RestAssured.*;
 
 public class MainTest {
